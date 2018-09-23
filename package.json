@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http//apgomez85.github.io/contactmanager",
+  "homepage": "https://apgomez85.github.io/contacts-project",
   "dependencies": {
     "ajv": "^6.0.0",
     "axios": "^0.18.0",
